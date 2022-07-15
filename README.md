@@ -1,2 +1,2 @@
 # Amusement-Park-Website
-It is a full-stack amusement park website which has been made in a team.
+A virtual banking website that allow access to its users for all the fuctions and facilities that a banking website provide to its users.
